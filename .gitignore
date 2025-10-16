@@ -1,0 +1,8 @@
+# Data and Models
+data/
+*.csv
+*.h5
+*.pth
+*.pt
+*.onnx
+models/
